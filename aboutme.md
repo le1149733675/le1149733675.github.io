@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我 
+title: about me  
 ---
 
 一个 IOS开发者，喜欢研究一些新技术。
@@ -43,8 +43,6 @@ title: 关于我
 ## 特别鸣谢        
 
 <a href="blog.h88829.top">小韩同学</a>
-
-{% include comments.html %}
 
 
 
