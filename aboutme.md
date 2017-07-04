@@ -42,7 +42,7 @@ title: about me
 <p>
 特别鸣谢        
 
-<a target="_blank" href="https://blog.h88829.top">小韩同学</a>
+<a target="_blank" href="https://h88829.top">小韩同学</a>
 
 
 
