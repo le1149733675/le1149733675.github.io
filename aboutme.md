@@ -39,10 +39,10 @@ title: about me
 
 博客源码在 <a target="_blank" href='https://github.com/le1149733675/le1149733675.github.io.git'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
+<p>
+特别鸣谢        
 
-## 特别鸣谢        
-
-<a href="blog.h88829.top">小韩同学</a>
+<a target="_blank" href="blog.h88829.top">小韩同学</a>
 
 
 
