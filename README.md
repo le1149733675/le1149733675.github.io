@@ -23,4 +23,4 @@
 
 #### 感谢   
 
-本博客在[Vno Jekyll](blog.h88829.top)基础上修改的。  
+本博客在[Vno Jekyll](h88829.top)基础上修改的。  
